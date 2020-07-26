@@ -18,4 +18,4 @@ There are 2 main datasets
 Variable   Defination
 
 1. ID       UniqueId
-
+2. Estimated_Insects_Count  Estimated insects count per square meter
