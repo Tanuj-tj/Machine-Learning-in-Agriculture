@@ -5,6 +5,6 @@
 
 ## 2. Data
 > The data is downloaded from the analytics vidhya's weekend hackathon JanataHack: Machine Learning in Agriculture Hackathon : https://datahack.analyticsvidhya.com/contest/janatahack-machine-learning-in-agriculture/#ProblemStatement
-> There are 2 main datasets 
+There are 2 main datasets 
 * train.csv
 * test.csv
