@@ -2,3 +2,9 @@
 
 ## 1. Problem Definition
 > We need to daetermine the outcome of the harvest season, i.e. whether the crop would be healthy (alive), damaged by pesticides or damaged by other reasons.
+
+## 2. Data
+> The data is downloaded from the analytics vidhya's weekend hackathon JanataHack: Machine Learning in Agriculture Hackathon : https://datahack.analyticsvidhya.com/contest/janatahack-machine-learning-in-agriculture/#ProblemStatement
+> There are 2 main datasets 
+* train.csv
+* test.csv
