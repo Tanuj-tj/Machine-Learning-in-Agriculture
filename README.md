@@ -17,13 +17,13 @@ There are 2 main datasets
 
 #### Data Dictionary
 
-1. ID  -                        UniqueId
-2. Estimated_Insects_Count -   Estimated insects count per square meter
-3. Crop_Type -	                Category of Crop(0,1)
-4. Soil_Type	-                Category of Soil (0,1)
-5. Pesticide_Use_Category	-    Type of pesticides uses (1- Never, 2-Previously Used, 3-Currently Using)
-5. Number_Doses_Week -	        Number of doses per week
-6. Number_Weeks_Used -	        Number of weeks used
-7. Number_Weeks_Quit -	        Number of weeks quit
-8. Season -	                    Season Category (1,2,3)
-9. Crop_Damage -	              Crop Damage Category (0=alive, 1=Damage due to other causes, 2=Damage due to Pesticides)
+1. ID  :-                        UniqueId
+2. Estimated_Insects_Count  :-   Estimated insects count per square meter
+3. Crop_Type  :-	                Category of Crop(0,1)
+4. Soil_Type  :-                Category of Soil (0,1)
+5. Pesticide_Use_Category	 :-    Type of pesticides uses (1- Never, 2-Previously Used, 3-Currently Using)
+5. Number_Doses_Week  :-	        Number of doses per week
+6. Number_Weeks_Used  :-	        Number of weeks used
+7. Number_Weeks_Quit  :-	        Number of weeks quit
+8. Season  :-	                    Season Category (1,2,3)
+9. Crop_Damage  :-	              Crop Damage Category (0=alive, 1=Damage due to other causes, 2=Damage due to Pesticides)
