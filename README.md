@@ -14,8 +14,8 @@ There are 2 main datasets
 > The evaluation metric for this hackathon is Accuracy Score.
 
 ## 4. Features
-   Variable	Definition
-1. ID	UniqueID
+   #### Variable	                  Definition 
+   1.   ID	                        UniqueID
 2 .Estimated_Insects_Count	Estimated insects count per square meter
 Crop_Type	Category of Crop(0,1)
 Soil_Type	Category of Soil (0,1)
